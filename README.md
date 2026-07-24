@@ -9,7 +9,9 @@ Este módulo superpone los controladores de Vulkan/Mali extraídos del firmware 
 
 ## Requisitos
 * Samsung Galaxy A7 2018 (SM-A750G / equivalentes) con Android 10.
+* tener root
 * Magisk o KernelSU instalado.
+  
 
 ## instalacion
 1. Descarga el zip desde la sección de **Releases**.
